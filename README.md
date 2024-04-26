@@ -31,11 +31,11 @@ Through meticulous analysis and targeted marketing strategies, we identified key
 The implementation of a targeted approach using logistic regression resulted in a substantial increase in the Return on Marketing Expenditure (ROME) and overall profit, as depicted in the charts below.
 
 ### ROME by Campaign
-![ROME by Campaign](./path/to/rome_image.png)
+![ROME by Campaign](./ROME.png)
 *Comparison of ROME between no targeting and logistic targeting approach.*
 
 ### Profit by Campaign
-![Profit by Campaign](./path/to/profit_image.png)
+![Profit by Campaign](./Profit.png)
 *Comparison of profits between no targeting and logistic targeting approach.*
 
 The targeted logistic approach outperformed the no targeting strategy, leading to a 10-fold increase in ROME and an 8.5-fold increase in profit. These visuals clearly illustrate the advantage of implementing a data-driven targeting strategy in marketing campaigns.
